@@ -1,31 +1,33 @@
 <!--
   DARSHAN H V | GitHub Profile README
-  GitHub: https://github.com/darshanhv296
+
+  GitHub:   https://github.com/darshanhv296
   LinkedIn: https://www.linkedin.com/in/darshanhv296
   Portfolio: https://portfolio-zf0z.onrender.com/
+  Email:    darshanhv296@gmail.com
 -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=240&section=header&text=DARSHAN%20H%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Imagine%20%C2%B7%20Explore%20%C2%B7%20Experiment%20%C2%B7%20Build&descAlignY=58&descSize=18&descColor=00F5A0" width="100%" alt="Darshan H V header"/>
 
-<a href="https://portfolio-zf0z.onrender.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00F5A0&center=true&vCenter=true&width=800&height=45&lines=I+imagine.+I+explore.+I+experiment.+I+build.;Turning+curiosity+into+working+systems.;Always+learning.+Always+building.;Making+ideas+real+%E2%80%94+one+system+at+a+time." alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00F5A0&center=true&vCenter=true&width=800&height=45&lines=I+imagine.+I+explore.+I+experiment.+I+build.;Turning+curiosity+into+working+systems.;Always+learning.+Always+building.;Making+ideas+real+%E2%80%94+one+system+at+a+time." alt="Animated introduction"/>
 
 <br/>
 
+<!-- UNIQUE PROFILE LINKS: KEEP ONLY HERE -->
+
 <a href="https://portfolio-zf0z.onrender.com/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Space-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Space-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/darshanhv296">
-  <img src="https://img.shields.io/badge/GITHUB-View%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GITHUB-View%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/darshanhv296">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/darshanhv296?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-Explore%20My%20Work-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  <img src="https://img.shields.io/badge/REPOSITORIES-Explore%20My%20Work-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <br/><br/>
@@ -299,12 +301,6 @@ I'm still learning, experimenting, making mistakes, and discovering new possibil
 </table>
 </div>
 
-<p align="center">
-<a href="https://github.com/darshanhv296?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB020,50:EC4899,100:7F00FF&height=2" width="100%" alt="Colour divider"/>
 
 ## 🔬 How I Approach Building
@@ -359,24 +355,15 @@ I'm still learning, experimenting, making mistakes, and discovering new possibil
 
 ## 🤝 Let's Connect
 
-<p align="center"><i>I'm always happy to explore interesting ideas and connect with people who enjoy building things.</i></p>
+<p align="center">
+  <i>Have an interesting idea, project, or opportunity? Feel free to reach out.</i>
+  <br/><br/>
+  <a href="mailto:darshanhv296@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <div align="center">
-
-<a href="https://github.com/darshanhv296">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="https://www.linkedin.com/in/darshanhv296">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-</a>
-<a href="https://portfolio-zf0z.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/darshanhv296?tab=repositories">
-<img src="https://img.shields.io/badge/All_Projects-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="All projects"/>
-</a>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=760&height=45&lines=The+next+idea+is+always+worth+exploring.;Imagine+it.+Understand+it.+Build+it.;Thanks+for+stopping+by!" alt="Closing message"/>
 
