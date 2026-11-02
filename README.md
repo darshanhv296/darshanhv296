@@ -1,6 +1,7 @@
 <!--
   DARSHAN H V | GitHub Profile README
   GitHub: https://github.com/darshanhv296
+  LinkedIn: https://www.linkedin.com/in/darshanhv296
   Portfolio: https://portfolio-zf0z.onrender.com/
 -->
 
@@ -19,6 +20,9 @@
 </a>
 <a href="https://github.com/darshanhv296">
   <img src="https://img.shields.io/badge/GITHUB-View%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/darshanhv296">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 <a href="https://github.com/darshanhv296?tab=repositories">
   <img src="https://img.shields.io/badge/REPOSITORIES-Explore%20My%20Work-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
@@ -361,6 +365,9 @@ I'm still learning, experimenting, making mistakes, and discovering new possibil
 
 <a href="https://github.com/darshanhv296">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/darshanhv296">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 <a href="https://portfolio-zf0z.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
